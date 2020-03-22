@@ -1,6 +1,6 @@
 # Wp Rig Sheridan Theme
 
-
+## TESTING THIS 
 ## Getting Started
 
 These instructions will get WP Rig Sheridan Theme up and running on your local machine for development and testing purposes. 
