@@ -19,11 +19,20 @@ Node
 Node install
 ```
 
-Another
+Composer
 
 ```
-npm install
+composer install
 ```
+
+Gulp 4
+
+```
+gulp install
+```
+
+built to integrate with VS Code but can be used with any code editor
+[VS Code](https://rometools.github.io/rome/)
 
 ### Installing 
 
@@ -72,25 +81,6 @@ yarn run dev
 ```
 
 7. In WordPress admin, activate the WP Rig development theme.
-
-End with an example of getting some data out of the system or using it for a little demo
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Key references
-
-* [Wordpress](http://www.dropwizard.io/1.0.2/docs/) - Should start with new install
-* [Another](https://maven.apache.org/) - Dependency Management
-* [Another 2](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
-
 
 
 
