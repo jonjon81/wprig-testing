@@ -23,7 +23,7 @@ npm i yarn
 
 4) [Node.js](https://nodejs.org/en/download/) -server-side JavaScript runtime environment. Download from Node website.
 
-5) [Composer](https://www.npmjs.com/package/composer) - Run and compose async tasks. Easily define groups of tasks to run in series or parallel.
+5) [Composer](https://getcomposer.org/) - Dependency Manager for PHP
 (installed globally)
 
 ```
@@ -90,4 +90,4 @@ yarn run dev
 7. In WordPress admin, activate the WP Rig development theme.
 
 ### Additional info 
-*[WPRIG](https://github.com/wprig/wprig/) -  WP Rig theme from GITHUB
+*[Wp Rig](https://github.com/wprig/wprig/) -  WP Rig theme one Github.
