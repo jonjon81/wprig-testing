@@ -1,25 +1,26 @@
-# Wprig Sheridan Wordpress Theme
+# Wp Rig Sheridan Theme
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+These instructions will get WP Rig Sheridan Theme up and running on your local machine for development and testing purposes. 
 
 ### Dependencies to install before the theme
 
 [PHP](http://php.net/) 7.0
 
-NPM
+NPM (installs lates version)
 
 ```
-npm install
+npm install npm@latest -g
 ```
 
-Node
+YARN
+```
+npm i yarn
+```
 
-```
-Node install
-```
+[NODE]https://nodejs.org/en/download/ - download from Node website
 
 Composer (installed globally)
 
@@ -55,8 +56,9 @@ In VS Code, open Preferences (Ctrl/Cmd+,), go to Workspace Settings, and set the
 }
 ```
 
-* Using Yarn instead of NPM worked better. Many errors kept arrising with NPM. 
-4. In command line, run yarn run rig-init to install necessary node and Composer dependencies.
+* Using Yarn commands instead of NPM worked better. Many errors kept arrising with NPM. 
+
+4. In command line, install necessary node and Composer dependencies.
 ```
 yarn run rig-init
 ```
@@ -85,4 +87,4 @@ yarn run dev
 7. In WordPress admin, activate the WP Rig development theme.
 
 ### Additional info 
-*[WPRIG](https://github.com/wprig/wprig/) -  WP Rig theme
+*[WPRIG](https://github.com/wprig/wprig/) -  WP Rig theme from GITHUB
