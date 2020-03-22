@@ -33,8 +33,8 @@ Gulp 4
 gulp install
 ```
 
-built to integrate with VS Code but can be used with any code editor
-[VS Code](https://rometools.github.io/rome/)
+*Built to integrate with [VS Code](https://code.visualstudio.com/) but can be used with any code editor
+
 
 ### Installing 
 
