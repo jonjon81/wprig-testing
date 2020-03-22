@@ -20,7 +20,7 @@ npm install npm@latest -g
 npm i yarn
 ```
 
-4) [NodeJs](https://nodejs.org/en/download/) - download from Node website
+4) [Node.js](https://nodejs.org/en/download/) - download from Node website
 
 5) Composer (installed globally)
 
