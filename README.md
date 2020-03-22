@@ -21,9 +21,9 @@ npm install npm@latest -g
 npm i yarn
 ```
 
-4) [Node.js](https://nodejs.org/en/download/) - download from Node website
+4) [Node.js](https://nodejs.org/en/download/) -server-side JavaScript runtime environment. Download from Node website.
 
-5) [Composer](https://www.npmjs.com/package/composer)
+5) [Composer](https://www.npmjs.com/package/composer) - Run and compose async tasks. Easily define groups of tasks to run in series or parallel.
 (installed globally)
 
 ```
