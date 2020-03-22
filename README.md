@@ -20,7 +20,7 @@ npm install npm@latest -g
 npm i yarn
 ```
 
-4) [NODE](https://nodejs.org/en/download/) - download from Node website
+4) [NodeJs](https://nodejs.org/en/download/) - download from Node website
 
 5) Composer (installed globally)
 
@@ -39,6 +39,8 @@ gulp install
 
 ### Installing 
 
+*** Using Yarn commands instead of NPM worked better. Many errors kept arrising with NPM. However you still need to have NPM installed. 
+
 1. place the wprig-sheridan theme in the /wp-content/themes/ folder of your local development environment
 
 2. WP Rig configuration
@@ -54,9 +56,7 @@ In VS Code, open Preferences (Ctrl/Cmd+,), go to Workspace Settings, and set the
 	"phpcs.standard": "WordPress",
 	"editor.renderWhitespace": "all"
 }
-```
-
-* Using Yarn commands instead of NPM worked better. Many errors kept arrising with NPM. 
+``` 
 
 4. In command line, install necessary node and Composer dependencies.
 ```
