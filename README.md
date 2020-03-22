@@ -7,6 +7,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Dependencies to install before the theme
 
+[PHP](http://php.net/) 7.0
+
 NPM
 
 ```
@@ -19,7 +21,7 @@ Node
 Node install
 ```
 
-Composer
+Composer (installed globally)
 
 ```
 composer install
@@ -82,5 +84,5 @@ yarn run dev
 
 7. In WordPress admin, activate the WP Rig development theme.
 
-
-
+### Additional info 
+*[WPRIG](https://github.com/wprig/wprig/) -  WP Rig theme
