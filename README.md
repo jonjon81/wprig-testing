@@ -5,17 +5,27 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
+### Dependencies to install before the theme
 
-What things you need to install the software and how to install them
+NPM
 
 ```
-Give examples
+npm install
 ```
 
-### Installing
+Node
 
-# Directions to setup locally
+```
+Node install
+```
+
+Another
+
+```
+npm install
+```
+
+### Installing 
 
 1. place the wprig-sheridan theme in the /wp-content/themes/ folder of your local development environment
 
@@ -55,7 +65,7 @@ yarn run rig-init
 }
 ```
 
-6. In command line, run yarn run dev to process source files, build the development theme, and watch files for subsequent changes.
+6. In command line, to process source files, build the development theme, and watch files for subsequent changes.
 
 ```
 yarn run dev
@@ -65,10 +75,6 @@ yarn run dev
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
 ### Break down into end to end tests
 
 Explain what these tests test and why
@@ -77,23 +83,11 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+## Key references
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Wordpress](http://www.dropwizard.io/1.0.2/docs/) - Should start with new install
+* [Another](https://maven.apache.org/) - Dependency Management
+* [Another 2](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 
