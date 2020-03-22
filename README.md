@@ -7,31 +7,34 @@ These instructions will get WP Rig Sheridan Theme up and running on your local m
 
 ### Dependencies to install before the theme
 
-1) [PHP](http://php.net/) 7.0+
+1) [Php](http://php.net/) 7.0+ - server scripting language, and a powerful tool for making dynamic and interactive Web pages.
 
-2) NPM (installs lates version)
+2) [NPM](https://www.npmjs.com/) - package manager
+(installs latest version)
 
 ```
 npm install npm@latest -g
 ```
 
-3) YARN
+3) [Yarn](https://yarnpkg.com/) - package/project manager
 ```
 npm i yarn
 ```
 
 4) [Node.js](https://nodejs.org/en/download/) - download from Node website
 
-5) Composer (installed globally)
+5) [Composer](https://www.npmjs.com/package/composer)
+(installed globally)
 
 ```
-composer install
+php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 ```
 
-6) Gulp 4
+6) [Gulp](https://gulpjs.com/) - streaming build system in front-end web development
 
 ```
-gulp install
+yarn install gulp-cli -g
+yarn install gulp -D
 ```
 
 *Built to integrate with [VS Code](https://code.visualstudio.com/) but can be used with any code editor
