@@ -91,4 +91,4 @@ yarn run dev
 7. In WordPress admin, activate the WP Rig development theme.
 
 ### Additional info 
-*[Wp Rig](https://github.com/wprig/wprig/) -  WP Rig theme one Github.
+*[Wp Rig](https://github.com/wprig/wprig/) -  WP Rig theme on Github.
